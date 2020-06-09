@@ -4,7 +4,10 @@
 http://www.gxlib.org.cn/
 
 上海浦东图书馆
+http://www.pdlib.com/
 
 深圳图书馆
+https://www.szlib.org.cn/
 
 浙江图书馆
+http://www.pdlib.com/
